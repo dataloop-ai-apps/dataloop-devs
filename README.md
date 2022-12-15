@@ -1,4 +1,6 @@
-# Welcome to the ![Dataloop.ai](logo.png) Developer Community!
+![Dataloop.ai](logo.png)
+
+# Welcome to the Dataloop.ai Developer Community!
 
 If you're new to Dataloop.ai and into software engineering, this is a great place for you to get started.
 
