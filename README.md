@@ -1,6 +1,4 @@
-# developer-devs
-
-#H1 Welcome to the Dataloop Developer Community!
+# H1 Welcome to the Dataloop Developer Community!
 
 If you're new to Dataloop and into software engineering, this is a great place for you to get started.
 
