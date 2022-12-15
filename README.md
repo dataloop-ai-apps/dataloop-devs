@@ -1,6 +1,6 @@
-# Welcome to the Dataloop Developer Community!
+# Welcome to the ![Dataloop.ai](logo.png) Developer Community!
 
-If you're new to Dataloop and into software engineering, this is a great place for you to get started.
+If you're new to Dataloop.ai and into software engineering, this is a great place for you to get started.
 
 Here you'll find a good flow of activities designed to get you up and running quickly.  Follow the steps, links and exercises in order from top to bottom and you'll have great success.
 
