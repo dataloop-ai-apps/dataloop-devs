@@ -17,15 +17,18 @@ Here you'll find a good flow of activities designed to get you up and running qu
 5. Links to Dataloop platform demo videos so you can get the basics of the platform
 
 3. Links to common tools we use to develop:
-- PyCharm
-- VSCode
-- Jupyter Notebook Docker Image
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+    - Note that there is both Professional and Commmunity versions
+- [VSCode](https://code.visualstudio.com/)
+- [Jupyter Notebook Docker Image](https://hub.docker.com/repository/docker/heffelw/dataloop-jupyter)
+    - Our very own Chief Customer Officer built this.  It includes a lot of the typical data science Python packages as well as the Dataloop SDK
 
 4. Link(s) to Dataloop technical documentation:
-- API
-    - [Swagger](https://dataloop.ai/docs/sdk-reference)
-- SDK
-- FaaS
+- [API](https://dataloop.ai/docs/api)
+    - [Swagger](https://gate.dataloop.ai/api/v1/docs/#))
+- [SDK](https://dataloop.ai/docs/sdk-reference)
+- [FaaS](https://dataloop.ai/docs/faas)
+- [CLI](https://dataloop.ai/docs/dataloop-cli)
 - Apps (coming soon!)
 
 
