@@ -8,7 +8,7 @@ Here you'll find a good flow of activities designed to get you up and running qu
 
 <details>
   <summary markdown="span">First things first</summary>
-  
+
 First things first - If you don't already have one, create a Dataloop.ai account
 
 - Go to [Dataloop.ai sign in and sign up welcome page](https://console.dataloop.ai/welcome) and click on `Sign Up / Login`
