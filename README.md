@@ -6,9 +6,13 @@ If you're new to Dataloop.ai and into software engineering, this is a great plac
 
 Here you'll find a good flow of activities designed to get you up and running quickly.  Follow the steps, links and exercises in order from top to bottom and you'll have great success.
 
+<details>
+  <summary markdown="span">This is the summary text, click me to expand</summary>
+  
 1. First things first - If you don't already have one, create a Dataloop.ai account
     - Go to [Dataloop.ai sign in and sign up welcome page](https://console.dataloop.ai/welcome) and click on `Sign Up / Login`
     - Click through the steps to create an account and log into the platform
+</details> 
 
 2. Links to Dataloop platform demo videos so you can get the basics of the platform:
     - Getting Started
