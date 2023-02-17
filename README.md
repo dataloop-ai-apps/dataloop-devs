@@ -16,23 +16,6 @@ First things first - If you don't already have one, create a Dataloop.ai account
 </details> 
 
 <details>
-  <summary markdown="span">Familiarize yourself with the Dataloop platform</summary>
-  
-Links to Dataloop platform demo videos so you can get the basics of the platform:
-
-- Getting Started
-</details>
-
-<details>
-  <summary markdown="span">Apps Nomenclature</summary>
-  
-Apps Nomenclature
-
-- How Dataloop defines terms and how the terms define discrete components that plug into a framework
-- Insert approproate parts of Rotem's content from the slide deck "Apps&DX 2022-23.pptx" here
-</details>
-
-<details>
   <summary markdown="span">Common tools</summary>
   
 Links to common tools we use to develop:
