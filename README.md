@@ -4,7 +4,7 @@
 
 If you're new to Dataloop.ai and into software engineering, this is a great place for you to get started.
 
-Here you'll find a good flow of activities designed to get you up and running quickly.  Follow the steps, links and exercises in order from top to bottom and you'll have great success.
+Here you'll find a good flow of activities designed to get you up and running quickly.  Follow the steps, links and exercises in order from top to bottom and you'll surely learn how to get started using Datalopp's solution.
 
 <details>
   <summary markdown="span">First things first</summary>
@@ -14,6 +14,16 @@ First things first - If you don't already have one, create a Dataloop.ai account
 - Go to [Dataloop.ai sign in and sign up welcome page](https://console.dataloop.ai/welcome) and click on `Sign Up / Login`
 - Click through the steps to create an account and log into the platform
 </details> 
+
+<details>
+  <summary markdown="span">Dataloop Python SDK Onboarding</summary>
+
+This onboarding will walk you through how to 
+
+- Go to [Dataloop.ai sign in and sign up welcome page](https://console.dataloop.ai/welcome) and click on `Sign Up / Login`
+- Click through the steps to create an account and log into the platform
+</details> 
+
 
 <details>
   <summary markdown="span">Common tools</summary>
